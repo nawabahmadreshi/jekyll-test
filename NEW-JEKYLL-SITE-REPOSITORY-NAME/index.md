@@ -5,3 +5,4 @@
 layout: home
 ---
 Hello everyone 
+This is the home page 
